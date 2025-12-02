@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.avenue-bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 80vh;
+}
+
+.avenue-card-container {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family: "Bree Serif";
+    background-color: white;
+}
+
+.avenue-card-heading {
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.avenue-card-paragraph {
+    color: #0f0e46;
+    font-size: 12px;
+    text-align: center;
+
+}
+
+.book-flat-button {
+    color: white;
+    font-size: 10px;
+    background-color: orange;
+    height: 40px;
+    width: 110px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 15px;
+
+}
+
+.flats-list-page-bg-container {
+    background-color: black;
+}
+
+.flats-list-page-heading {
+    color: orange;
+    font-size: 20px;
+    text-align: left;
+    padding: 15px;
+}
+
+.flats-list-page-card-container {
+    border-radius: 10px;
+    font-family: "Bree Serif";
+    background-color: white;
+    margin: 7px;
+
+}
+
+.flat-lists-image-card {
+    height: 160px;
+    width: 120px;
+
+}
+
+.flats-list-page-card-container-heading {
+    color: #0f0e46;
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.flats-list-page-card-container-paragraph {
+    color: #6c6b70;
+    font-size: 15px;
+    padding: 3px;
+    font-weight: 500;
+}
+
+.list-button {
+    color: white;
+    font-size: 10px;
+    background-color: orange;
+    height: 40px;
+    width: 110px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 15px;
+}
+
+.flats-description-card-container {
+    font-family: "Bree Serif";
+}
+
+.flats-description-card-image-container {
+
+    width: 100vw;
+}
+
+.text-container {
+    padding: 15px;
+    background-color: black;
+}
+
+.text-container-heading {
+    color: orange;
+    font-size: 15px;
+
+}
+
+.text-container-address {
+    font-size: 12px;
+    color: white;
+}
+
+.icon {
+    height: 20px;
+    width: 30px;
+}
+
+.horizontal-rule {
+    width: 100%;
+    background-color: white;
+    height: 3px;
+}
+
+.description-heading {
+    color: orange;
+    font-size: 15px;
+
+}
+
+.description-matter {
+    color: white;
+    font-size: 12px;
+}
+
+.button {
+    color: white;
+    font-size: 10px;
+    background-color: orange;
+    height: 40px;
+    width: 110px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 15px;
+}
